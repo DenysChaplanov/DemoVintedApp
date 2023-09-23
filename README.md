@@ -1,6 +1,8 @@
 # DemoVintedApp
 This project was completed during the technical homework (interview) phase of Vinted.
 
+![video](https://github.com/DenysChaplanov/DemoVintedApp/assets/71696135/ba4d1fd9-437e-45fe-8a3f-136b3047de87)
+
 ## Overal 
 This project demonstrates good practices in Android app development, utilizing modern components and architectural principles. 
 
